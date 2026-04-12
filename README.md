@@ -8,12 +8,34 @@ Fokus utama saya adalah pengembangan web menggunakan ekosistem React. Selain itu
 
 ## Teknologi dan Keahlian
 
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+<div align="center">
+  <table>
+    <tr>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=netlify" width="50" alt="Netlify"><br>Netlify</td>
+      <td align="center" width="120"><img src="https://uxwing.com/wp-content/themes/uxwing/download/brands-and-social-media/canva-icon.png" width="50" alt="Canva"><br>Canva</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=c" width="50" alt="C"><br>C</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=cpp" width="50" alt="C++"><br>C++</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=python" width="50" alt="Python"><br>Python</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=html" width="50" alt="HTML"><br>HTML</td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=css" width="50" alt="CSS"><br>CSS</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=js" width="50" alt="JavaScript"><br>JavaScript</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=tailwind" width="50" alt="Tailwind CSS"><br>Tailwind CSS</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=react" width="50" alt="ReactJS"><br>ReactJS</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nextjs" width="50" alt="Next.js"><br>Next.js</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vite" width="50" alt="Vite"><br>Vite</td>
+    </tr>
+    <tr>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=nodejs" width="50" alt="Node JS"><br>Node JS</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=bootstrap" width="50" alt="Bootstrap"><br>Bootstrap</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=firebase" width="50" alt="Firebase"><br>Firebase</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=materialui" width="50" alt="Material UI"><br>Material UI</td>
+      <td align="center" width="120"><img src="https://skillicons.dev/icons?i=vercel" width="50" alt="Vercel"><br>Vercel</td>
+      <td align="center" width="120"><img src="https://raw.githubusercontent.com/DmitriyRusov/DmitriyRusov/main/libraries/sweetalert.png" width="50" alt="SweetAlert2"><br>SweetAlert2</td>
+    </tr>
+  </table>
+</div>
 
 ## Playlist Favorit
 
