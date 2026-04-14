@@ -2,9 +2,24 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2ff321&center=false&vCenter=false&width=500&lines=Mahasiswa+Pendidikan+Ilmu+Komputer;Web+Developer;Novelist)](https://git.io/typing-svg)
 
-Saya biasa dipanggil Lukay. Saat ini saya sedang menempuh pendidikan di program studi Pendidikan Ilmu Komputer, Universitas Pendidikan Indonesia. 
+# <img src="https://i.ibb.co.com/dJMv0J3J/mylove-regular-2.webp" height="35" align="bottom" alt="Halo, Saya"> <img src="https://i.ibb.co.com/Pz58fpxY/fancy-candy-regular.webp" height="35" align="bottom" alt="Lucky Luqmanul Hakim">
 
-Fokus utama saya adalah pengembangan web menggunakan ekosistem React. Selain itu, saya memiliki landasan yang kuat dalam pemrograman sistem dan analitis menggunakan C, C++, dan Python. Di luar penulisan kode, saya menaruh minat pada eksplorasi topik matematika seperti kalkulus dan meluangkan waktu untuk menulis karya fiksi.
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4bf321&center=false&vCenter=false&width=500&lines=Mahasiswa+Pendidikan+Ilmu+Komputer;Web+Developer;Novelis)](https://git.io/typing-svg)
+
+```javascript
+const lukaylucman = {
+  status: "Computer Science Education Student",
+  university: "Universitas Pendidikan Indonesia (UPI)",
+  main_focus: ["Web Development", "React Ecosystem"],
+  core_languages: ["C", "C++", "Python"],
+  hobbies_and_interests: {
+    creative: "Writing fiction (Draft: Langit di Atas Impian)",
+    academic: "Calculus exploration (Project: Calculus vs Everybody)",
+    recreation: ["Billiards", "Swimming"]
+  },
+  greeting: "Let's connect and collaborate!"
+};
+```
 
 ## Teknologi dan Keahlian
 
