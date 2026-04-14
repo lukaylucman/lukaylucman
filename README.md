@@ -80,11 +80,11 @@ const lukaylucman = {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukaylucman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </div>
 
-## Playlist Favorit
-
-<a href="https://open.spotify.com/playlist/0UVLGV77RlRLrfKhfDnS5h?si=fRMmVa5fRbax5-4VS7gsAQ">
-  <img src="https://i.ibb.co.com/1Y4TKFy0/Whats-App-Image-2026-04-10-at-16-00-42.jpg" alt="Playlist Survive" width="500">
-</a>
+<div align="left">
+  <a href="https://open.spotify.com/playlist/0UVLGV77RIRLrfKhfDnS5h">
+    <img src="https://img.shields.io/badge/Playlist_Survive-1DB954?style=for-the-badge&logo=spotify&logoColor=white" alt="Spotify Playlist">
+  </a>
+</div>
 
 ## Grafik Aktivitas
 
