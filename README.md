@@ -17,6 +17,28 @@ const lukaylucman = {
 };
 ```
 
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Quote" />
+</div>
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/lucky-luqmanul-hakim-16319437b">
+    <img src="https://skillicons.dev/icons?i=linkedin" width="40" alt="LinkedIn">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:luckylukmanulhakim04@gmail.com">
+    <img src="https://skillicons.dev/icons?i=gmail" width="40" alt="Email">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/luckyluqmn/">
+    <img src="https://skillicons.dev/icons?i=instagram" width="40" alt="Instagram">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://luckyluqmn.web.app/portofolio">
+    <img src="https://cdn.simpleicons.org/googlechrome/4285F4" width="40" alt="Website">
+  </a>
+</div>
+
 ## Teknologi dan Keahlian
 
 <div align="center">
