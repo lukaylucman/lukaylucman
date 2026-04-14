@@ -49,7 +49,9 @@ Fokus utama saya adalah pengembangan web menggunakan ekosistem React. Selain itu
 
 ## Playlist Favorit
 
-[![Playlist Survive](https://i.ibb.co.com/1Y4TKFy0/Whats-App-Image-2026-04-10-at-16-00-42.jpg)](https://open.spotify.com/playlist/0UVLGV77RlRLrfKhfDnS5h?si=fRMmVa5fRbax5-4VS7gsAQ)
+<a href="https://open.spotify.com/playlist/0UVLGV77RlRLrfKhfDnS5h?si=fRMmVa5fRbax5-4VS7gsAQ">
+  <img src="https://i.ibb.co.com/1Y4TKFy0/Whats-App-Image-2026-04-10-at-16-00-42.jpg" alt="Playlist Survive" width="500">
+</a>
 
 ## Grafik Aktivitas
 
