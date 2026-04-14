@@ -37,6 +37,16 @@ Fokus utama saya adalah pengembangan web menggunakan ekosistem React. Selain itu
   </table>
 </div>
 
+## Statistik GitHub
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=lukaylucman&theme=tokyonight" alt="Statistik Profil" />
+  <br><br>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=lukaylucman&theme=tokyonight" alt="Bahasa Pemrograman Teratas" />
+  <br><br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=lukaylucman&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+</div>
+
 ## Playlist Favorit
 
 [![Playlist Survive](https://i.ibb.co.com/1Y4TKFy0/Whats-App-Image-2026-04-10-at-16-00-42.jpg)](https://open.spotify.com/playlist/0UVLGV77RlRLrfKhfDnS5h?si=fRMmVa5fRbax5-4VS7gsAQ)
