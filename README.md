@@ -2,10 +2,6 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=2ff321&center=false&vCenter=false&width=500&lines=Mahasiswa+Pendidikan+Ilmu+Komputer;Web+Developer;Novelist)](https://git.io/typing-svg)
 
-# <img src="https://i.ibb.co.com/dJMv0J3J/mylove-regular-2.webp" height="35" align="bottom" alt="Halo, Saya"> <img src="https://i.ibb.co.com/Pz58fpxY/fancy-candy-regular.webp" height="35" align="bottom" alt="Lucky Luqmanul Hakim">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=4bf321&center=false&vCenter=false&width=500&lines=Mahasiswa+Pendidikan+Ilmu+Komputer;Web+Developer;Novelis)](https://git.io/typing-svg)
-
 ```javascript
 const lukaylucman = {
   status: "Computer Science Education Student",
